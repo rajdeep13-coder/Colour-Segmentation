@@ -24,7 +24,7 @@ A collection of OpenCV-based tools for color-based image and video segmentation.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/color-segmentation.git
+git clone https://github.com/GauravKarakoti/color-segmentation.git
 cd color-segmentation
 ```
 2. Install dependencies:
