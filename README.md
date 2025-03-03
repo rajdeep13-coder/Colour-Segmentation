@@ -56,4 +56,4 @@ python segment.py
 - Press ESC to exit
 
 ## Contributing
-Contributions are welcome! Please see [CONTRIBUTING.md](https://github.com/GauravKarakoti/Colour-Segmentation/blob/main/CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please see [Contributing.md](https://github.com/GauravKarakoti/Colour-Segmentation/blob/main/Contributing.md) for guidelines.
